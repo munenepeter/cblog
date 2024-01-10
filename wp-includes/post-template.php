@@ -385,7 +385,7 @@ function get_the_content( $more_link_text = null, $strip_teaser = false, $post =
  *
  * @since 0.71
  */
-function the_excerpt() {
+function wthe_excerpt() {
 
 	/**
 	 * Filters the displayed post excerpt.
